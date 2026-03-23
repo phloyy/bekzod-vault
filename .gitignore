@@ -1,0 +1,25 @@
+# Obsidian system files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Trash
+.trash/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.bak
+
+# Large assets — храни в отдельном месте
+*.psd
+*.ai
+*.fig
+*.mp4
+*.mov
+
+# Env
+.env
+.env.local
